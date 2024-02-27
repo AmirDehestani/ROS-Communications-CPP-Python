@@ -1,0 +1,10 @@
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package/CMakeFiles/uninstall.dir
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package/CMakeFiles/cpp_package_uninstall.dir
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package/CMakeFiles/talker.dir
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package/CMakeFiles/test.dir
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package/CMakeFiles/edit_cache.dir
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package/CMakeFiles/rebuild_cache.dir
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package/CMakeFiles/list_install_components.dir
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package/CMakeFiles/install.dir
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package/CMakeFiles/install/local.dir
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package/CMakeFiles/install/strip.dir

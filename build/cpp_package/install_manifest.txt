@@ -1,0 +1,16 @@
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/lib/cpp_package/talker
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/ament_index/resource_index/package_run_dependencies/cpp_package
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/ament_index/resource_index/parent_prefix_path/cpp_package
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/environment/ament_prefix_path.sh
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/environment/ament_prefix_path.dsv
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/environment/path.sh
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/environment/path.dsv
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/local_setup.bash
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/local_setup.sh
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/local_setup.zsh
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/local_setup.dsv
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/package.dsv
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/ament_index/resource_index/packages/cpp_package
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/cmake/cpp_packageConfig.cmake
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/cmake/cpp_packageConfig-version.cmake
+/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/package.xml

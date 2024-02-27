@@ -1,0 +1,68 @@
+[0.110s] Invoking command in '/home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/amir/files/workspaces/ROS-Communications-CPP-Python/src/cpp_package -DCMAKE_INSTALL_PREFIX=/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package
+[0.158s] -- The C compiler identification is GNU 11.4.0
+[0.204s] -- The CXX compiler identification is GNU 11.4.0
+[0.210s] -- Detecting C compiler ABI info
+[0.272s] -- Detecting C compiler ABI info - done
+[0.277s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.277s] -- Detecting C compile features
+[0.277s] -- Detecting C compile features - done
+[0.280s] -- Detecting CXX compiler ABI info
+[0.352s] -- Detecting CXX compiler ABI info - done
+[0.357s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.357s] -- Detecting CXX compile features
+[0.358s] -- Detecting CXX compile features - done
+[0.360s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.484s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.553s] -- Found rclcpp: 16.0.8 (/opt/ros/humble/share/rclcpp/cmake)
+[0.586s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.590s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.596s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.607s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.622s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.678s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.680s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.771s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.794s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.836s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.844s] -- Looking for pthread.h
+[0.913s] -- Looking for pthread.h - found
+[0.913s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.982s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.983s] -- Found Threads: TRUE  
+[1.105s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.168s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.168s] -- Configured cppcheck include dirs: 
+[1.168s] -- Configured cppcheck exclude dirs and/or files: 
+[1.168s] -- Added test 'lint_cmake' to check CMake code style
+[1.169s] -- Added test 'uncrustify' to check C / C++ code style
+[1.169s] -- Configured uncrustify additional arguments: 
+[1.169s] -- Added test 'xmllint' to check XML markup files
+[1.171s] -- Configuring done
+[1.179s] -- Generating done
+[1.180s] -- Build files have been written to: /home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package
+[1.188s] Invoked command in '/home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/amir/files/workspaces/ROS-Communications-CPP-Python/src/cpp_package -DCMAKE_INSTALL_PREFIX=/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package
+[1.190s] Invoking command in '/home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package -- -j16 -l16
+[1.238s] [ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/src/publisher_member_function.cpp.o[0m
+[4.425s] [100%] [32m[1mLinking CXX executable talker[0m
+[4.569s] [100%] Built target talker
+[4.580s] Invoked command in '/home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package -- -j16 -l16
+[4.613s] Invoking command in '/home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package
+[4.620s] -- Install configuration: ""
+[4.620s] -- Installing: /home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/lib/ROS_Communications/talker
+[4.621s] -- Set runtime path of "/home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/lib/ROS_Communications/talker" to ""
+[4.622s] -- Installing: /home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/ament_index/resource_index/package_run_dependencies/cpp_package
+[4.622s] -- Installing: /home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/ament_index/resource_index/parent_prefix_path/cpp_package
+[4.622s] -- Installing: /home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/environment/ament_prefix_path.sh
+[4.622s] -- Installing: /home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/environment/ament_prefix_path.dsv
+[4.622s] -- Installing: /home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/environment/path.sh
+[4.623s] -- Installing: /home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/environment/path.dsv
+[4.623s] -- Installing: /home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/local_setup.bash
+[4.623s] -- Installing: /home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/local_setup.sh
+[4.623s] -- Installing: /home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/local_setup.zsh
+[4.623s] -- Installing: /home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/local_setup.dsv
+[4.623s] -- Installing: /home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/package.dsv
+[4.624s] -- Installing: /home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/ament_index/resource_index/packages/cpp_package
+[4.624s] -- Installing: /home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/cmake/cpp_packageConfig.cmake
+[4.624s] -- Installing: /home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/cmake/cpp_packageConfig-version.cmake
+[4.624s] -- Installing: /home/amir/files/workspaces/ROS-Communications-CPP-Python/install/cpp_package/share/cpp_package/package.xml
+[4.626s] Invoked command in '/home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/amir/files/workspaces/ROS-Communications-CPP-Python/build/cpp_package
